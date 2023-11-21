@@ -1,0 +1,7 @@
+.chat-line__message--deleted-detailed {
+    text-decoration: none !important;
+}
+
+.tw-root--theme-dark .chat-line__message--deleted {
+    color: inherit !important;
+}
